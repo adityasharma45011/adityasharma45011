@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityasharma45011
+- 👋 Hi, I’m @ADiTYA.
 - 👀 I’m interested in Python Development.
 - 🌱 I’m currently learning Django Framework
 - 💞️ I’m looking to collaborate on Python Project
